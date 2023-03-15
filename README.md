@@ -3,7 +3,7 @@ TeamsDispatcher is a program that aims to evenly distribute players in a given n
 
 ## Explication
 When you start the program, you have two input options available to you. <br>
-The first one is the area where you fill in the names of all the participants. Chaque noms doit être obligatoirement séparé par un point-virgule ( ; ). <br>
+The first one is the area where you fill in the names of all the participants. Each name must be separated by a semicolon ( ; ). <br>
 The second is the area where you have to fill in how many teams you want the players to be divided into. <br>
 <br>
 Then you just have to press the button "Distribute the players". If the number you have entered cannot be distributed fairly, a final team will be created with the players that cannot be distributed fairly.
