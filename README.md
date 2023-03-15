@@ -1,5 +1,5 @@
 # TeamsDispatcher
-TeamsDispatcher is a program that aims to evenly distribute players in a given number of teams.
+TeamsDispatcher is a program that aims to distribute players fairly and randomly into a given number of teams.
 
 ## Explication
 When you start the program, you have two input options available to you. <br>
