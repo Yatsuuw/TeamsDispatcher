@@ -16,3 +16,8 @@ As the software is not provided with the source code, it is not subject to any l
 Only the ©Copyright present protects it being able to claim my rights there in the event of resale.
 
 ## Application
+![App Screenshot](https://github.com/Yatsuuw/TeamsDispatcher/blob/master/images/image1.png?raw=true)
+<br>
+![App Screenshot 2](https://github.com/Yatsuuw/TeamsDispatcher/blob/master/images/image2.png?raw=true)
+<br>
+![App Screenshot 3](https://github.com/Yatsuuw/TeamsDispatcher/blob/master/images/image3.png?raw=true)
